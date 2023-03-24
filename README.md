@@ -1,7 +1,7 @@
 
 # Glottis el gato 
 
-[enter link description here](https://glottis-el-gato.netlify.app/)
+[GLOTTIS EL GATO](https://glottis-el-gato.netlify.app/)
 
 Podés ver el curso completo en el siguiente video: [HTML desde Cero por Sergie Code](https//www.youtube.com/sergiecode)
 
